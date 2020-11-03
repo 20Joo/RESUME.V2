@@ -4,9 +4,7 @@
 <img src=KakaoTalk_20190529_213848204.jpg width=200 height=250>  
 
   ##### 이름 : 이영주  
-  <img src=hallymlogo.png width=50 height=50>         
-  
-  ##### 학교 : [한림대학교](https://www.hallym.ac.kr/)
+  <img src=hallymlogo.png width=50 height=50>        ##### 학교 : [한림대학교](https://www.hallym.ac.kr/)
   <h5> 학년 : 3학년(재학중) </h5>
   <h5> 학번 : 20185277 </h5>
   <h5> Email : magic3740@naver.com </h5>
