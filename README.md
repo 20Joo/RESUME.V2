@@ -17,8 +17,11 @@
   
  -------------------------     
   ## 취미     
-  > 노래 듣기     
+  > 노래 듣기
   > 게임  
+  
+  <img src=Lol.jpeg width=100 height=100>
+  
   > 요리하기
   
   <img src=bread.jpg width=150 height=150><img src=meat.jpg width=150 height=150><img src=bacon.jpg width=150 height=150><img src=yamm.jpg width=150 height=150><img src=toast.jpg width=150 height=150>    
