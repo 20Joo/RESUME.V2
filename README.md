@@ -17,7 +17,12 @@
   > 게임  
   > 요리하기     
   
-  -------------------------
+   <img src=bread.jpg width=50 height=50>    
+   <img src=meat.jpg width=50 height=50>    
+   <img src=bacon.jpg width=50 height=50>    
+   <img src=yamm.jpg width=50 height=50>     
+   <img src=toast.jpg width=50 height=50>    
+  ------------------------- 
   ## 사용 가능 언어
   1. Java
   2. C
