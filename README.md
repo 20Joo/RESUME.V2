@@ -1,6 +1,6 @@
 # RESUME.V2(20Joo)
 
-### 개인 이력사항  
+## 개인 이력사항  
 
 <img src=4.jpg width=250 height=250><img src=6.jpg width=250 height=250><img src=7.jpg width=250 height=250><img src=8.jpg width=250 height=250>    
 
