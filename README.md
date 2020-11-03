@@ -16,10 +16,10 @@
   > 노래 듣기     
   > 게임  
   > 요리하기     
-  <img src=bread.jpg width=50 height=50>    
-  <img src=meat.jpg width=50 height=50>    
-  <img src=bacon.jpg width=50 height=50>    
-  <img src=yamm.jpg width=50 height=50>     
+  <img src=bread.jpg width=50 height=50/>    
+  <img src=meat.jpg width=50 height=50/>    
+  <img src=bacon.jpg width=50 height=50/>    
+  <img src=yamm.jpg width=50 height=50/>     
   <img src=toast.jpg width=50 height=50>    
    
   -------------------------      
