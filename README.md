@@ -16,7 +16,7 @@
   > 노래 듣기     
   > 게임  
   > 요리하기     
-  <img src=bread.jpg width=100 height=100><img src=meat.jpg width=100 height=100><img src=bacon.jpg width=100 height=100><img src=yamm.jpg width=100 height=100><img src=toast.jpg width=100 height=100>    
+  <img src=bread.jpg width=150 height=150><img src=meat.jpg width=150 height=150><img src=bacon.jpg width=150 height=150><img src=yamm.jpg width=150 height=150><img src=toast.jpg width=150 height=150>    
    
   -------------------------      
   ## 사용 가능 언어
