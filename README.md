@@ -19,7 +19,7 @@
   ## 취미     
   > 노래 듣기    
   > 게임  
-  <img src=Lol.jpeg width=300 height=100>
+  <img src=Lol.jpeg width=450 height=150>
   
   > 요리하기
   
