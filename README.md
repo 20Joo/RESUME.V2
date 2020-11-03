@@ -1,7 +1,7 @@
 # RESUME.V2(20Joo)
 
 ### 개인 이력사항  
-<img src=KakaoTalk_20190529_213848204.jpg width=200 height=250>  
+<img src=4.jpg width=200 height=250><img src=6.jpg width=200 height=250><img src=7.jpg width=200 height=250><img src=8.jpg width=200 height=250>    
 
   #### 이름 : 이영주  
   <h5> 생일 : 1999.06.03 </h5>
