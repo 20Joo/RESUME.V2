@@ -4,8 +4,9 @@
 
 <img src=4.jpg width=250 height=250><img src=6.jpg width=250 height=250><img src=7.jpg width=250 height=250><img src=8.jpg width=250 height=250>    
 
-  #### 이름 : 이영주  
+  #### 이름 : 이영주
   <h5> 생일 : 1999.06.03 </h5>
+  <h5> 나이 : 22 </h5>
   <h5> Email : magic3740@naver.com </h5>     
   <img src=hallymlogo.png width=50 height=50>         
    
