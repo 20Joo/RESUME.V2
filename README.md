@@ -1,4 +1,4 @@
-# RESUME.V2(20Joo)
+# RESUME.Ver2(20Joo)
 
 ## 개인 이력사항  
 
