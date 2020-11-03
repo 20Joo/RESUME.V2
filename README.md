@@ -10,7 +10,8 @@
   <h5> Email : magic3740@naver.com </h5>     
   
   <img src=hallymlogo.png width=70 height=70>         
- 
+  
+  ### 학력
   #### 학교 : [한림대학교](https://www.hallym.ac.kr/)      
   <h5> 학년 : 3학년(재학중) </h5>     
   <h5> 학과 : 전자공학과 </h5>      
