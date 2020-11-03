@@ -20,7 +20,7 @@
    
   -------------------------      
   ## 사용 가능 언어
-  <img src=java.png width=100 height=100><img src=C.png width=100 height=100><img src=python.png width=100 height=100>
+  <img src=java.jpeg width=100 height=100><img src=C.png width=100 height=100><img src=python.jpeg width=100 height=100>
   1. Java
   2. C
   3. Python
