@@ -1,6 +1,7 @@
 # RESUME.V2(20Joo)
 
 ### 개인 이력사항  
+
 <img src=4.jpg width=200 height=250><img src=6.jpg width=200 height=250><img src=7.jpg width=200 height=250><img src=8.jpg width=200 height=250>    
 
   #### 이름 : 이영주  
@@ -16,7 +17,8 @@
   ## 취미  
   > 노래 듣기     
   > 게임  
-  > 요리하기     
+  > 요리하기
+  
   <img src=bread.jpg width=150 height=150><img src=meat.jpg width=150 height=150><img src=bacon.jpg width=150 height=150><img src=yamm.jpg width=150 height=150><img src=toast.jpg width=150 height=150>    
    
   -------------------------      
