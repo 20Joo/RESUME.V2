@@ -24,7 +24,7 @@
   <img src=bread.jpg width=150 height=150><img src=meat.jpg width=150 height=150><img src=bacon.jpg width=150 height=150><img src=yamm.jpg width=150 height=150><img src=toast.jpg width=150 height=150>    
   -------------------------     
   ## 좋아하는 색깔     
-  <img src=Green.jpeg width=100 height=100><img src=black.jpeg width=100 height=100>    
+  <img src=Green.jpeg width=100 height=100><img src=black.jpeg width=100 height=100><img src=Yellow.png width=100 height=100>   
    
    
   -------------------------      
