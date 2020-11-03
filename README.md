@@ -22,6 +22,9 @@
   > 요리하기
   
   <img src=bread.jpg width=150 height=150><img src=meat.jpg width=150 height=150><img src=bacon.jpg width=150 height=150><img src=yamm.jpg width=150 height=150><img src=toast.jpg width=150 height=150>    
+  -------------------------     
+  ## 좋아하는 색깔     
+  
    
   -------------------------      
   ## 사용 가능 언어
